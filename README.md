@@ -27,3 +27,10 @@ pkg install php
 
 pip install requests
 
+git clone https://github.com/EmadAlkhashn/lebanon
+
+cd lebanon
+
+python Emad.py
+
+
